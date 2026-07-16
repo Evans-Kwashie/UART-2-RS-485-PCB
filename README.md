@@ -33,7 +33,7 @@ matter more than raw speed. This board bridges a standard UART interface
 ## Files
 
 - `.kicad_sch` / `.kicad_pcb` — full KiCad source project
-- `RS485_Schematic.pdf` — schematic export
+- `RS 485.pdf` — schematic export
 - `board_3d_render.png` — 3D rendered preview
 
 ## Tools
