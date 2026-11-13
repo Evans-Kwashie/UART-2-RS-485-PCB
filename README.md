@@ -11,6 +11,10 @@ long-distance serial communication where noise immunity and cable length
 matter more than raw speed. This board bridges a standard UART interface 
 (TX/RX) to an RS-485 A/B differential bus using the STR485 transceiver.
 
+<p align="center">
+  <img src="./board_3d_render.png" alt="UART to RS-485 converter PCB 3D render" width="780">
+</p>
+
 ## Key Design Features
 
 - **STR485 transceiver** with DE/RE tied together and driven from a single 
@@ -43,3 +47,8 @@ Designed entirely in KiCad 10.
 ## Status
 
 Schematic and layout complete, DRC clean. Not yet fabricated/assembled.
+
+## License
+
+This project is licensed under the [MIT License](./LICENSE).
+
